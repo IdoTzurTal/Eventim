@@ -1,0 +1,19 @@
+.clicktoenter{
+    text-decoration: none;
+    text-align: center;
+    border: solid;
+    border-color: black;
+    padding: 1vw;
+    background-color: black;
+    color: white;
+}
+.clicktoenter:hover{
+    background-color: wheat;
+    color: black;
+    border-color: wheat;
+}
+.welcome {
+    padding-top: 1vw;
+    padding-bottom: 3vw;
+    font-size: 4vw;
+}

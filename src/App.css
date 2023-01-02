@@ -2,15 +2,31 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.navbar {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  padding: 1vw;
+  background-color: #1d2b46;
+  color: wheat;
+  display: flex;
+  justify-content: left;
+  font-size: large;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.navlogo {
+  font-weight: 700;
+  text-decoration: none;
+  padding-left: 5vw;
+  padding-right: 21.3vw;
+  font-size: x-large;
+  color: wheat;
+  padding-top: 1.3vh;
+}
+
+.navimg {
+  width: 86px;
+  height: 40px;
 }
 
 .App-header {

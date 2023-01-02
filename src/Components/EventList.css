@@ -1,0 +1,16 @@
+.list { 
+    list-style: none;
+    padding: 0;
+}
+.list li {
+    border-style: solid;
+    margin: 1vw;
+    background-color: bisque;
+    padding: 1vw;
+}
+.infolink{
+    text-decoration: none;
+    display: flex;
+    flex-direction: column;
+    
+}
